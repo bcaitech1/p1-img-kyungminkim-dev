@@ -26,3 +26,30 @@ COVID-19의 확산으로 우리나라는 물론 전 세계 사람들은 경제�
 
 입력값. 마스크 착용 사진, 미착용 사진, 혹은 이상하게 착용한 사진(코스크, 턱스크)
 
+![maskclass](https://github.com/bcaitech1/p1-img-kyungminkim-dev/blob/main/image/maskclass.png)
+
+## Components
+
+<code>DataLoader.ipynb</code>
+
+
+
+<code>Train.ipynb</code>
+
+
+<code>getLabeling.ipynb</code>
+
+## 평가 방법
+
+
+
+## 등수
+
+accuracy : 76.2063%  
+f1_score : 0.7019  
+126등/224
+
+
+
+
+
