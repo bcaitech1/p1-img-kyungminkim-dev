@@ -41,7 +41,9 @@ COVID-19의 확산으로 우리나라는 물론 전 세계 사람들은 경제�
 
 ## 평가 방법
 
+* f1-score
 
+![f1score](https://github.com/bcaitech1/p1-img-kyungminkim-dev)
 
 ## 등수
 
